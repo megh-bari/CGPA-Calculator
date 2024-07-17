@@ -19,6 +19,7 @@ A simple web-based CGPA calculator that allows students to calculate their CGPA 
 To get a local copy up and running follow these simple steps:
 
 1. Clone the repository:
+
    ```sh
 
    git clone https://github.com/megh-bari/CGPA-Calculator.git
@@ -34,7 +35,7 @@ To get a local copy up and running follow these simple steps:
 
 ## Live
 
-You can see a live site: [Visit](link-to-live-demo).
+### You can see a live site: [Visit](link-to-live-demo).
 
 ## License
 
