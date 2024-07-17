@@ -116,14 +116,8 @@ footer a{
     font-weight: 600;
 }
 
-@media screen and (max-width: 425px) {
-    .container {
-        max-width: 350px;
-    }
-}
-
-@media screen and (max-width: 330px) {
-    .container {
-        max-width: 300px;
-    }
+@media screen and (max-width: 600px) {
+  .container {
+    max-width: 300px;
+  }
 }
