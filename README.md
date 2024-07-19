@@ -35,7 +35,7 @@ To get a local copy up and running follow these simple steps:
 
 ## Live
 
-### You can see a live site: [Visit](link-to-live-demo).
+### You can see a live site: [Visit](https://cgpa-calculator-megh-bari.vercel.app/)
 
 ## License
 
